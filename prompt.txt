@@ -1,0 +1,4 @@
+Analyse cette carte de prix en HTML/CSS.  
+Corrige les erreurs de mise en page et de syntaxe.  
+Ensuite, refactore-la en une fonction composant réutilisable qui accepte title, price et features comme paramètres.  
+Améliore légèrement le style et ajoute une interaction pour le bouton.
